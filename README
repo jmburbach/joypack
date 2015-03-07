@@ -1,0 +1,6 @@
+Some exploratory code on packing up joystick button and axis values into a
+compact stream of bytes.
+
+As might be needed for usb hid for example...
+
+...also a great bit twiddling exercise ;-)
